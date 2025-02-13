@@ -1,4 +1,4 @@
-# Hi there, I'm Shaikh Hassaan 👋
+# Hi there, I'm Hassaan 👋
 
 I'm a Web Designer and Developer with a passion for crafting visually stunning and user-friendly web experiences. I specialize in frontend development, leveraging modern technologies and frameworks to bring ideas to life on the web.
 
