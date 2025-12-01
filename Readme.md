@@ -19,7 +19,7 @@ I'm a Web Designer and Developer with a passion for crafting visually stunning a
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nox619&layout=compact&theme=radical)
 
 ## 🌍 Connect with Me
-- [LinkedIn](https://linkedin.com/in/shaikh-hassaan)
+- [LinkedIn](www.linkedin.com/in/hassaan-shaikh-747632249)
 - [Twitter](https://twitter.com/shaikh-hassaan)
 
 ## 🎨 Fun Fact
