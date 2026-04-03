@@ -1,74 +1,62 @@
-# Hi there, I'm Hassaan 👋
+# Hi, I'm Hassaan 👋
 
-I'm a **Machine Learning Engineer and Web Developer** with a strong interest in building practical, user-focused applications by combining **ML concepts** with **modern frontend development**.
+Software Developer focused on **VoIP**, **real-time communication systems**, and **production-grade software solutions**.
 
-I enjoy working on clean UI design, applying data-driven logic, and building projects that solve real-world problems.
-
----
-
-## 🚀 Skills & Technologies
-
-### 🧠 Programming
-- **Languages:** Python, JavaScript, C, HTML, CSS
-
-### 🌐 Web Development
-- **Frontend:** React.js, Astro.js
-- **UI & Styling:** CSS3, Bootstrap, shadcn/ui, Responsive Design
-- **State Management:** Redux
-- **Tools:** Git, GitHub
-
-### 🤖 Machine Learning
-- Python for Machine Learning
-- Supervised & Unsupervised Learning
-- Data Preprocessing & Feature Engineering
-- Model Evaluation Metrics
-- Basic Deep Learning concepts
+Currently working on **VoIP workflows involving SIP, WebRTC, RTP, FreeSWITCH, Kamailio, and AWS**, while continuing to build and maintain live production websites for clients.
 
 ---
 
-## 💻 Projects
+## Focus Areas
 
-### 🔹 ByHeart – Intelligent Memorization Assistant (Team Project)
-**Tech:** Python, Flask, OpenCV, Machine Learning  
-
-An AI-based learning assistant designed to improve memorization using:
-- Eye tracking
-- Speech-to-text
-- OCR-based text extraction  
-
-Contributed to ML logic and integration of computer vision and text-processing components.
+- VoIP / Telephony Systems
+- SIP Signaling & Call Flows
+- WebRTC / RTP Workflows
+- Real-time Communication
+- Production Web Applications
+- Cloud Deployment & Infrastructure
 
 ---
 
-### 🔹 Movie Recommendation System (Team Project)
-**Tech:** Python, Machine Learning  
+## Tech Stack
 
-Developed a recommendation system using collaborative and content-based filtering to generate personalized movie suggestions from a public dataset.
+**Languages**  
+Python · JavaScript · C
 
+**Frontend**  
+React.js · Vue.js · Astro.js · Tailwind CSS · shadcn/ui
 
-## 🌩️ Certifications
-
-- **AWS Cloud Foundations**  
-  Demonstrates understanding of core cloud concepts and AWS services.
-
-- **Google Developer Student Club (GDSC)**  
-  Earned multiple certificates through participation in technical events and projects.
+**Systems / Infra**  
+SIP · WebRTC · RTP · FreeSWITCH · Kamailio · AWS · Linux · Git · GitHub
 
 ---
 
-## 📊 GitHub Stats
+## Current Work
 
-![Hassaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nox619&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nox619&layout=compact&theme=radical)
+### VoIP Communication Infrastructure
+Working on scalable **outbound communication workflows** using **FreeSWITCH, Kamailio, SIP routing, RTP media handling, failover logic, and AWS deployment architecture**.
 
----
-
-## 🌍 Connect with Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/hassaan-shaikh-747632249)
+### GitHub Profile Explorer
+Built a **GitHub user explorer** with repository lookup and profile data visualization.
 
 ---
 
-## 🎨 Fun Fact
+## Live Client Work
 
-- I enjoy **minimal UI design**, working with modern component libraries like **shadcn/ui**, and building projects that blend **machine learning with web development**.
+- **EYTE Technologies** → https://eyte.sg
+- **CP&L Services** → https://cplservices.in
+- **Design Solutions** → https://designsolutionskw.org
+
+Delivered and continue to maintain production websites including deployment, SEO, domain management, and client-requested updates.
+
+---
+
+## Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/hassaan-shaikh-747632249
+- 🌐 Portfolio: https://portfolio-hassaan.netlify.app
+
+---
+
+## Currently Exploring
+
+Distributed systems, VoIP call flows, SIP signaling, and scalable real-time communication platforms.
